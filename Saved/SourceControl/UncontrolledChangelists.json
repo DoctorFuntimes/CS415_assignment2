@@ -1,0 +1,31 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Gable/Desktop/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset",
+				"C:/Users/Gable/Desktop/UnrealLearningKit/Content/LearningKit_Games/UI/WPB_HealthBar.uasset",
+				"C:/Users/Gable/Desktop/UnrealLearningKit/Content/LearningKit_Games/UI/WBP_Score.uasset",
+				"C:/Users/Gable/Desktop/UnrealLearningKit/Content/LearningKit_Games/UI/WBP_Restart.uasset",
+				"C:/Users/Gable/Desktop/UnrealLearningKit/Content/LearningKit_Games/Maps/Actual_level_to_play_on.umap",
+				"C:/Users/Gable/Desktop/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.uasset",
+				"C:/Users/Gable/Desktop/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Pickups/PowerUp_Pickup_BP_Child.uasset",
+				"C:/Users/Gable/Desktop/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Pickups/PowerUp_Pickup_BP_Child_heal.uasset",
+				"C:/Users/Gable/Desktop/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP_Score_Increase.uasset",
+				"C:/Users/Gable/Desktop/UnrealLearningKit/Content/LearningKit_Games/Blueprints/AI/BP_Pursuer.uasset",
+				"C:/Users/Gable/Desktop/UnrealLearningKit/Content/LearningKit_Games/Blueprints/AI/Pursuer_AIController.uasset",
+				"C:/Users/Gable/Desktop/UnrealLearningKit/Content/LearningKit_Games/Blueprints/AI/EAIState.uasset",
+				"C:/Users/Gable/Desktop/UnrealLearningKit/Content/LearningKit_Games/Blueprints/BP_Pursuer.uasset",
+				"C:/Users/Gable/Desktop/UnrealLearningKit/Content/LearningKit_Games/Blueprints/EAIState.uasset",
+				"C:/Users/Gable/Desktop/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Pursuer_AIController.uasset",
+				"C:/Users/Gable/Desktop/UnrealLearningKit/Content/LearningKit_Games/Maps/LearningKit_Games_Showcase.umap",
+				"C:/Users/Gable/Desktop/UnrealLearningKit/Content/LearningKit_Games/Maps/Actual_level_to_play_on1.umap",
+				"C:/Users/Gable/Desktop/UnrealLearningKit/Content/LearningKit_Games/Maps/Actual_level_redo.umap",
+				"C:/Users/Gable/Desktop/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Pursuer_AIController.uasset",
+				"C:/Users/Gable/Desktop/UnrealLearningKit/Content/LearningKit_Games/Blueprints/BP_Pursuer.uasset"
+			]
+		}
+	]
+}
