@@ -18,13 +18,23 @@
 				"C:/Users/Gable/Desktop/UnrealLearningKit/Content/LearningKit_Games/Blueprints/AI/Pursuer_AIController.uasset",
 				"C:/Users/Gable/Desktop/UnrealLearningKit/Content/LearningKit_Games/Blueprints/AI/EAIState.uasset",
 				"C:/Users/Gable/Desktop/UnrealLearningKit/Content/LearningKit_Games/Blueprints/BP_Pursuer.uasset",
+				"C:/Users/Gable/Desktop/UnrealLearningKit/Content/LearningKit_Games/Maps/LearningKit_Games_Showcase.umap",
+				"C:/Users/Gable/Desktop/UnrealLearningKit/Content/LearningKit_Games/Maps/Actual_level_redo.umap",
+				"C:/Users/Gable/Desktop/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Pickups/BP_spawner.uasset",
+				"C:/Users/Gable/Desktop/UnrealLearningKit/Content/LearningKit_Games/Blueprints/AI/BP_Pursuer1.uasset",
+				"C:/Users/Gable/Desktop/UnrealLearningKit/Content/LearningKit_Games/Blueprints/AI/Pusuer_again.uasset",
+				"C:/Users/Gable/Desktop/UnrealLearningKit/Content/LearningKit_Games/Blueprints/AI/Pursuer_again.uasset",
+				"C:/Users/Gable/Desktop/UnrealLearningKit/Content/LearningKit_Games/Blueprints/AI/other_start.uasset",
+				"C:/Users/Gable/Desktop/UnrealLearningKit/Content/LearningKit_Games/Blueprints/AI/AI_Patrol_Path_Point.uasset",
+				"C:/Users/Gable/Desktop/UnrealLearningKit/Content/LearningKit_Games/Blueprints/AI/BTTask_Patrol.uasset",
+				"C:/Users/Gable/Desktop/UnrealLearningKit/Content/LearningKit_Games/Blueprints/AI/AI_Behavior.uasset",
+				"C:/Users/Gable/Desktop/UnrealLearningKit/Content/LearningKit_Games/Blueprints/AI/NewBehaviorTree.uasset",
+				"C:/Users/Gable/Desktop/UnrealLearningKit/Content/LearningKit_Games/Blueprints/AI/BB_Pursuer.uasset",
+				"C:/Users/Gable/Desktop/UnrealLearningKit/Content/LearningKit_Games/Blueprints/AI/BTTask_Roam.uasset",
+				"C:/Users/Gable/Desktop/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Pickups/BP_health_spawner.uasset",
 				"C:/Users/Gable/Desktop/UnrealLearningKit/Content/LearningKit_Games/Blueprints/EAIState.uasset",
 				"C:/Users/Gable/Desktop/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Pursuer_AIController.uasset",
-				"C:/Users/Gable/Desktop/UnrealLearningKit/Content/LearningKit_Games/Maps/LearningKit_Games_Showcase.umap",
-				"C:/Users/Gable/Desktop/UnrealLearningKit/Content/LearningKit_Games/Maps/Actual_level_to_play_on1.umap",
-				"C:/Users/Gable/Desktop/UnrealLearningKit/Content/LearningKit_Games/Maps/Actual_level_redo.umap",
-				"C:/Users/Gable/Desktop/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Pursuer_AIController.uasset",
-				"C:/Users/Gable/Desktop/UnrealLearningKit/Content/LearningKit_Games/Blueprints/BP_Pursuer.uasset"
+				"C:/Users/Gable/Desktop/UnrealLearningKit/Content/LearningKit_Games/Maps/Actual_level_to_play_on1.umap"
 			]
 		}
 	]
